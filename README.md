@@ -1,5 +1,5 @@
 # Desafio---Stone
-Soluções de questões para processo seletivo da vaga de estágio para Desenvolvedor NodeJS para a empresa Stone.
+Soluções de questões do processo seletivo da vaga de estágio para Desenvolvedor NodeJS da a empresa Stone.
 
 1 - Faça uma função que receba uma palavra qualquer e devolva essa palavra ao contrário
 (aceito em qualquer linguagem de programação mas preferencialmente javascript).
